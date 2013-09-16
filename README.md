@@ -13,3 +13,5 @@ The program generates four output files. General input graph stats, Closeness, N
 
 [1] Ulrik Brandes - A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2), 163-177 - 2001.
 [2] Vladimir Batagelj, Andrej Mrvar - Pajek - Analysis and visualisation of large networks. - ISSN 1318-4865 - 2003.
+
+Note: Implemented using Linux - using some Linux specific calls.
