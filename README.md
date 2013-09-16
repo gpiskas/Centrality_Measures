@@ -11,9 +11,9 @@ Using Pajek, you can automatically generate a variety of graph, or even visually
 
 The program generates four output files. General input graph stats, Closeness, Node Betweenness and Edge Betweenness values.
 
-[1] Ulrik Brandes - A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2), 163-177 - 2001.
+[1] Ulrik Brandes - A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2), 163-177 - 2001. <br>
 [2] Vladimir Batagelj, Andrej Mrvar - Pajek - Analysis and visualisation of large networks. - ISSN 1318-4865 - 2003.
 
 Note: Implemented using Linux - using some Linux specific calls.
 
-Centrality Measures Calculator (Closeness, Node Betweenness, Edge Betweenness) Copyright (C) 2013 George Piskas
+Centrality Measures Calculator (Closeness, Node Betweenness, Edge Betweenness) <br> Copyright (C) 2013 George Piskas
