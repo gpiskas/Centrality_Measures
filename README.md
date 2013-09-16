@@ -1,4 +1,4 @@
-Centrality_Measures
+Centrality Measures
 ===================
 
 A utility that efficiently calculates Closeness, Node Betweenness and Edge Betweenness of a given connected, undirected graph.
@@ -15,3 +15,5 @@ The program generates four output files. General input graph stats, Closeness, N
 [2] Vladimir Batagelj, Andrej Mrvar - Pajek - Analysis and visualisation of large networks. - ISSN 1318-4865 - 2003.
 
 Note: Implemented using Linux - using some Linux specific calls.
+
+Centrality Measures Calculator (Closeness, Node Betweenness, Edge Betweenness) Copyright (C) 2013 George Piskas
