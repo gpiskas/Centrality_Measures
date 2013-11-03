@@ -16,4 +16,4 @@ The program generates four output files. General input graph stats, Closeness, N
 
 Note: Implemented using Linux - using some Linux specific calls.
 
-Centrality Measures Calculator (Closeness, Node Betweenness, Edge Betweenness) <br> Copyright (C) 2013 George Piskas
+Centrality Measures Calculator (Closeness, Node Betweenness, Edge Betweenness) <br> Copyright (C) 2013 George Piskas 
